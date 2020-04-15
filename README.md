@@ -38,7 +38,7 @@ A guide on running and compiling java programs can be found at [WikiHow](https:/
 However, the files contained in this repo can be downloaded and opened as a new project in 
 a java IDE with the following project layout:
 
-[FileLayout](Files.PNG)
+![FileLayout](Files.PNG)
 
 To operate the program, use the 'wasd' keys to look around, with w/s being move back,foward.
 
